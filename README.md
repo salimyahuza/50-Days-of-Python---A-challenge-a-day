@@ -11,4 +11,4 @@ I chose Python because of its versatility and ease of use. Whether it’s web de
 I welcome any suggestions, improvements, or new challenge ideas! Feel free to open an issue or submit a pull request. Let's learn and grow together.
 
 ## Acknowledgements
-Special thanks to Arewa Data Science Academy for their constant support and mentorship.
+Special thanks to Benjamin Bennett Alexander as well as Arewa Data Science Academy for their constant support and mentorship.
